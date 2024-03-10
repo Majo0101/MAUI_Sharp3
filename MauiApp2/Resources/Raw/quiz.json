@@ -1,0 +1,82 @@
+﻿[
+  {
+    "Id": 0,
+    "Question": "Welcome to the Cosmic Challenge!",
+    "A": "I am Ready to explore the cosmos!",
+    "B": "-1",
+    "C": "-1",
+    "D": "-1",
+    "Answer": "OK",
+    "Image": "dall_e_0.jpg"
+  },
+  {
+    "Id": 1,
+    "Question": "1. What is the largest planet in our solar system?",
+    "A": "Earth",
+    "B": "Jupiter",
+    "C": "Saturn",
+    "D": "Neptune",
+    "Answer": "B",
+    "Image": "dall_e_1.jpg"
+  },
+  {
+    "Id": 2,
+    "Question": "2. What galaxy do we live in?",
+    "A": "Andromeda Galaxy",
+    "B": "Whirlpool Galaxy",
+    "C": "Milky Way Galaxy",
+    "D": "Triangulum Galaxy",
+    "Answer": "C",
+    "Image": "dall_e_2.jpg"
+  },
+  {
+    "Id": 3,
+    "Question": "3. What is the closest star to Earth?",
+    "A": "Alpha Centauri",
+    "B": "Betelgeuse",
+    "C": "Sirius",
+    "D": "The Sun",
+    "Answer": "D",
+    "Image": "dall_e_3.jpg"
+  },
+  {
+    "Id": 4,
+    "Question": "4. What planet is known as the Red Planet?",
+    "A": "Mars",
+    "B": "Venus",
+    "C": "Jupiter",
+    "D": "Mercury",
+    "Answer": "A",
+    "Image": "dall_e_4.jpg"
+  },
+  {
+    "Id": 5,
+    "Question": "5. How many planets are in our solar system?",
+    "A": "7",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "Answer": "B",
+    "Image": "dall_e_5.jpg"
+  },
+  {
+    "Id": 6,
+    "Question": "Congratulations on completing your cosmic journey!",
+    "A": "Stellar job, astronaut! You've mastered the cosmic challenge!",
+    "B": "Close call! The universe awaits your comeback.",
+    "C": "-1",
+    "D": "-1",
+    "Answer": "A",
+    "Image": "dall_e_6.jpg"
+  },
+  {
+    "Id": 7,
+    "Question": "Would you like to embark on another cosmic journey through our universe quiz?",
+    "A": "Yes!",
+    "B": "No, quit.",
+    "C": "-1",
+    "D": "-1",
+    "Answer": "A",
+    "Image": "dall_e_7.jpg"
+  }
+]
