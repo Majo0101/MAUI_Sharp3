@@ -8,5 +8,5 @@ Simple quiz from the universe created in MAUI for Android.
 # Quiz page
 <img src="quiz.png" alt="description" style="max-width: 50%; height: auto;">
 
-#Quiz result
+# Quiz result
 <img src="result.png" alt="description" style="max-width: 50%; height: auto;">
